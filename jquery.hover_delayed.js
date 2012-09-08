@@ -1,6 +1,9 @@
 /*
+ * Copyright (c) 2012 Andrey Sidorov
+ * licensed under MIT license.
+ *
  * jQuery plugin for delayed hover mouse_out event.
- * It works similar to jQuert hover but has additional parameter - mouse_out_timeout.
+  * It works similar to jQuert hover but has additional parameter - mouse_out_timeout.
  * It executes mouse_out callback with mouse_out_timeout delay, so mouse_out callback wont be executed when mouse cursor quickly returned to hoverable area.
  *
  * Usage:
@@ -9,10 +12,6 @@
  *  }, function() {
  *    // This is mouse_out callback code
  *  }, mouse_out_timeout_in_milliseconds);
- *
- *
- * Copyright (c) 2012 Andrey Sidorov
- * licensed under MIT license.
  *
  * https://github.com/morr/jquery.hover_delayed
  *
