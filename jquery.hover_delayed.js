@@ -32,7 +32,7 @@
           }
         }, function() {
           if (!out_timer) {
-            out_timer = setInterval(out, 400);
+            out_timer = setInterval(out, mouse_out_delay);
           }
         });
 
