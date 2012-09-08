@@ -14,7 +14,7 @@
  * Copyright (c) 2012 Andrey Sidorov
  * licensed under MIT license.
  *
- * https://
+ * https://github.com/morr/jquery.hover_delayed
  *
  * Version: 0.1
  */
